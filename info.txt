@@ -1,0 +1,27 @@
+PDF Voice Reader Pro - Installation Information
+
+Thank you for choosing PDF Voice Reader Pro!
+
+This application allows you to:
+- Read PDF documents aloud with high-quality text-to-speech
+- Control playback with play, pause, stop, and skip functions
+- Adjust voice speed and volume to your preference
+- View PDF text in a clean, readable interface
+
+System Requirements:
+- Windows 10 or later (64-bit)
+- 100MB of free disk space
+- Microphone/speakers for audio output
+
+Installation Notes:
+1. The installer will guide you through the setup process
+2. Administrator privileges may be required
+3. Approx. installation size: 50MB
+
+For the best experience, please ensure your system has the latest audio drivers installed.
+
+Click "Next" to continue with the installation.
+
+Developer Information:
+- Created by Harsh Raj Tiwary
+- GitHub: https://github.com/HarshRajTiwary

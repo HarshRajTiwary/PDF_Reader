@@ -1,0 +1,28 @@
+PDF Voice Reader Pro - Installation Complete
+
+Congratulations! PDF Voice Reader Pro has been successfully installed on your system.
+
+What to do next:
+1. Launch the application from your desktop or Start menu
+2. Open a PDF file using the "Open PDF" button
+3. Use the playback controls to listen to the document
+4. Adjust voice settings to your preference
+
+Tips for first-time users:
+- Try different voices from the Voice Settings panel
+- Use the skip buttons (⏪ ⏩) to navigate long documents
+- The progress bar shows your current position in the document
+
+Support Information:
+- For help, please visit: https://github.com/HarshRajTiwary
+- Email support: developerharshraj@gmail.com
+
+Uninstallation:
+If you need to uninstall, please use the "Uninstall PDF Voice Reader Pro" option in the Start menu or from Windows Settings.
+
+Click "Finish" to close this wizard and optionally launch PDF Voice Reader Pro.
+
+Developer Information:
+This application was developed by Harsh Raj Tiwary.
+For more projects and updates, visit:
+https://github.com/HarshRajTiwary
